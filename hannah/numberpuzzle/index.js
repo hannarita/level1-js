@@ -180,9 +180,9 @@ function gameComplete() {
         var p11 = document.getElementById('piece11');
         p11.style.cssText = "background-color:#b8d8e7; color:gray";
         var p12 = document.getElementById('piece12');
-        p12.style.cssText = "background-color:#b8d8e7; color:gray";
+        p12.style.cssText = "background-color:b5d77f; color:gray";
         var p20 = document.getElementById('piece20');
-        p20.style.cssText = "background-color:#b5d77f; color:gray";
+        p20.style.cssText = "background-color:#b8d8e7; color:gray";
 
 
     }
